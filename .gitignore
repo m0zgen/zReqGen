@@ -1,4 +1,7 @@
-zReqGen
-queries-big.txt
 .idea
 .DS_Store
+
+zReqGen
+*big.txt
+500*
+1000*
